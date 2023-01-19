@@ -1,6 +1,6 @@
 # Smart Sensors for an Industrial revolution
 
-## Introduction
+## The Need for Smart Sensors
 
 The booming industries and their sole motive to deliver the most effective and precise product of everything they manufacture need one thing over simply "sensors". They need some instruments which will understand its application even in the foremost tangled places where human intervention is not attainable. This need of the hour might entirely be met by "smart sensors" that have oversized sort of applications along with the advantage of delivering the foremost effective output.
 
@@ -20,6 +20,6 @@ A number of the technologies supporting this revolution area unit cloud services
 
 The number of benefits of exploitation System-on-Chip enabled industrial sensible sensors to embrace reduced prices of bulk connectors and cables, higher signal-to-noise quantitative relation, prices improvement, self-calibration, system liableness and multi-sensing at a retail store and intelligent sensors area unit the indispensable enablers of the economic IoT. They establish things, trace them, and confirm their environmental things, all of that has important implications for the production and provide chain. Sensible sensing technology is especially helpful in warehouses as it'll keep track of humidness and temperature, log information for records and quality management, or be adopted as triggers for alarms or method management.
 
-## Conclusion
+## Market Outlook
 
 Overall, the marketplace for sensible sensors is about to ascent, and also the emergence of intelligent sensing element technology is central to sanctioning raised automation.
