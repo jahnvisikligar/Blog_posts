@@ -13,7 +13,9 @@ Recently, a new book on [building a career in AI](https://info.deeplearning.ai/h
 
 ### **Learning about AI and gaining skills**
 
-* ***Develop a Strong Foundation in Math and Programming***: A strong foundation in mathematics, particularly in linear algebra, calculus, and statistics, is essential to understanding and implementing AI algorithms. Familiarity with crucial programming languages such as Python, R and C++ for building and deploying AI models.
+### Develop a Strong Foundation in Math and Programming
+
+* A strong foundation in mathematics, particularly in linear algebra, calculus, and statistics, is essential to understanding and implementing AI algorithms. Familiarity with crucial programming languages such as Python, R and C++ for building and deploying AI models.
     
 * ***Learn the Latest Technologies***: AI is a rapidly evolving field, and it's important to stay up-to-date with the latest technologies and best practices. This includes familiarizing yourself with popular deep learning frameworks such as TensorFlow, Keras, PyTorch, and Caffe, and understanding the latest advances in areas like computer vision, natural language processing, and reinforcement learning.
     
