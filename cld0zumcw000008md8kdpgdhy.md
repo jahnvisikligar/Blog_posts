@@ -8,13 +8,17 @@ The booming industries and their sole motive to deliver the most effective and p
 
 A smart sensor could be a device that takes input from the physical environment and intrinsically uses reason resources to perform predefined functions upon detection of specific input and then method information before passing it on. Smart sensors enable a lot of accurate and automated assortment of environmental information with less inaccurate noise amongst the accurately recorded data. This feature permits smart sensors to become at the front of IoT (Internet of things).
 
+![](https://www.cmtc.com/hubfs/cmtc%20sensor%201-210769-edited.jpeg align="left")
+
 ## The Importance of Smart Sensors in IIoT
 
 The revolutionized industrial world depends on a technology named IIoT (industrial net of things). Smart sensor technologies come back to the forefront once IIoT is enforced these days. IoT sensors comprise self-diagnostics and digital network proficiency that are efficient enough for addressing several processes and distinct industry necessities starting from reducing maintenance to increasing overall equipment effectiveness also as digitally capturing the information of practised personnel. It permits industrial advancements with the assistance of advanced computing, analytics, inexpensive sensing, and new levels of the property enabled through the web.
 
 ## Technologies Supporting the Smart Sensor Revolution
 
-A number of the technologies supporting this revolution area unit cloud services, massive information analytics, and pervasive, intelligent, sensing technologies. The major issue taken into thought for industrial sensible sensors is completely driven by factors like the growing adoption of (System-on-Chip) SoC technology. With the combination of microprocessors and alternative electronic elements, industrial sensible sensors area unit experts in performing important functions like conversion, bi-directional communication, and taking selections in an industrial established.
+A number of the technologies supporting this revolution area unit cloud services, massive information analytics, and pervasive, intelligent, sensing technologies. The major issue taken into thought for industrial sensible sensors is completely driven by factors like the growing adoption of [(System-on-Chip) SoC technology](https://www.mathworks.com/help/soc/system-on-chip-soc.html). With the combination of microprocessors and alternative electronic elements, industrial sensible sensors area unit experts in performing important functions like conversion, bi-directional communication, and taking selections in an industrial established.
+
+![](https://www.mathworks.com/help/soc/schematic_soc.png align="center")
 
 ## Benefits of Industrial Smart Sensors
 
