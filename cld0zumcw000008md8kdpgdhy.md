@@ -8,8 +8,6 @@ The booming industries and their sole motive to deliver the most effective and p
 
 A smart sensor could be a device that takes input from the physical environment and intrinsically uses reason resources to perform predefined functions upon detection of specific input and then method information before passing it on. Smart sensors enable a lot of accurate and automated assortment of environmental information with less inaccurate noise amongst the accurately recorded data. This feature permits smart sensors to become at the front of IoT (Internet of things).
 
-![](https://www.cmtc.com/hubfs/cmtc%20sensor%201-210769-edited.jpeg align="left")
-
 ## The Importance of Smart Sensors in IIoT
 
 The revolutionized industrial world depends on a technology named IIoT (industrial net of things). Smart sensor technologies come back to the forefront once IIoT is enforced these days. IoT sensors comprise self-diagnostics and digital network proficiency that are efficient enough for addressing several processes and distinct industry necessities starting from reducing maintenance to increasing overall equipment effectiveness also as digitally capturing the information of practised personnel. It permits industrial advancements with the assistance of advanced computing, analytics, inexpensive sensing, and new levels of the property enabled through the web.
